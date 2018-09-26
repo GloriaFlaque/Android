@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="button">Button</string>
+    <string name="EditText" />
+    <string name="txt_email">Email</string>
+    <string name="Login">LOG IN</string>
+</resources>
